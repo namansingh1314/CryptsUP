@@ -198,7 +198,7 @@ form {
     flex-direction: column;
     align-items: center;
     margin: 0 auto;
-    width: 50%;
+    width: 100%;
 }
 input {
     margin-top: 10px;
