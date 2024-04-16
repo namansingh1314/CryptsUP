@@ -44,6 +44,7 @@ h1 a {
 
 
 .container {
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -176,3 +177,29 @@ button {
       font-size: 1.5rem;
     }
   }
+  .center {
+    text-align: center;
+    margin-top: 20px;
+}
+#button12 {
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    margin: 10px 0;
+}
+#message-container {
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    margin: 10px 0;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    width: 50%;
+}
+input {
+    margin-top: 10px;
+}
