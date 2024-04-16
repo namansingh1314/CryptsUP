@@ -1,1 +1,1 @@
-Currently working on its backend ,will publish soon so you can just encode in a single click
+Currently working on its backend ,will publish soon so you can just encrypt in a single click
